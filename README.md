@@ -6,7 +6,5 @@ beautifulsoup4
 
 py-cord 
 
-discord.py
-
 requests
 
